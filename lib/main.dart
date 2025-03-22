@@ -1,7 +1,6 @@
 // import 'dart:ffi';
 // import 'dart:math';
 import 'dart:ffi';
-
 import 'package:flutter/material.dart';
 import 'sun.dart';
 
